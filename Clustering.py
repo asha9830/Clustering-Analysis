@@ -295,21 +295,3 @@ plot_model(Density_clust, plot = 'distribution') #to see size of clusters
 
 plot_model(Density_clust, plot = 'distribution', feature = 'TENURE')
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
