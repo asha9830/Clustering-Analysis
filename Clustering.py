@@ -15,7 +15,7 @@ warnings.filterwarnings(action="ignore")
 # In[2]:
 
 
-data= pd.read_csv('C:/Users/ashan/Desktop/Project_Files/CC GENERAL.csv')
+data= pd.read_csv('CC GENERAL.csv')
 data
 
 
